@@ -1,4 +1,4 @@
-cask "claudia" do
+cask "claudia-monitor" do
   version "0.1.0"
   sha256 "55e0f8cf6e6df579236d03eb2c85aaae8bdd88e78f9e853381af5e4798cb7c3a"
 
