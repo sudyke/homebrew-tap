@@ -1,6 +1,6 @@
 cask "claudia-monitor" do
-  version "0.1.0"
-  sha256 "55e0f8cf6e6df579236d03eb2c85aaae8bdd88e78f9e853381af5e4798cb7c3a"
+  version "0.2.0"
+  sha256 "e8366b2ed21364377297cbd1fe094ff9a8ab0e5c24c3d912311ce5e3c02356b9"
 
   url "https://github.com/sudyke/Claudia/releases/download/v#{version}/Claudia-#{version}.dmg",
       verified: "github.com/sudyke/Claudia/"
